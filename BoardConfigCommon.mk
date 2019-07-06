@@ -1,5 +1,4 @@
 # inherit from the proprietary version
--include vendor/samsung/bcm-common/BoardConfigVendor.mk
 
 # PATH
 LOCAL_PATH := device/samsung/bcm-common
