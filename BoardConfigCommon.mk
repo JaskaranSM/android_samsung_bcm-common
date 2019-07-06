@@ -49,7 +49,7 @@ BOARD_FLASH_BLOCK_SIZE                := 262144
 BOARD_HAVE_BLUETOOTH                        := true
 BOARD_HAVE_BLUETOOTH_BCM                    := true
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(LOCAL_PATH)/bluetooth
-BOARD_BLUEDROID_VENDOR_CONF                 := $(LOCAL_PATH)/bluetooth/libbt_vndcfg_ace3.txt
+BOARD_BLUEDROID_VENDOR_CONF                 := $(LOCAL_PATH)/bluetooth/libbt_vndcfg_g313hu.txt
 
 # Connectivity - Wi-Fi
 BOARD_WLAN_DEVICE                := bcmdhd
